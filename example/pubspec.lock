@@ -250,9 +250,10 @@ packages:
   test_plugin_for_aar:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      name: test_plugin_for_aar
+      sha256: "0e4af2540e03f4789afeda5496c2b21fd453148b71b65603aea45a793d55e316"
+      url: "https://pub.dev"
+    source: hosted
     version: "0.0.1"
   vector_math:
     dependency: transitive
